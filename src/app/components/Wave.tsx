@@ -1,6 +1,6 @@
-import React from 'react'
+import React, { SVGProps } from 'react'
 
-export const Wave = (props) => (
+export const Wave: React.FC<SVGProps<SVGSVGElement>> = (props) => (
   <svg 
     height="100%" 
     viewBox="0 0 848 1024" 
