@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import {Providers} from "./providers";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 export const metadata: Metadata = {
   title: "Seafox Inventive",
@@ -22,7 +24,11 @@ export default function RootLayout({
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet" />
       </head>
       <body>
-          <Providers>{children}</Providers>
+          <Providers>
+            <Navbar/>
+              {children}
+            <Footer/>
+          </Providers>
       </body>
     </html>
   );
