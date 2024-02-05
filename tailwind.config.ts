@@ -18,7 +18,15 @@ const config: Config = {
       },
       colors: {
         primary: "#65A2C9"
-      }
+      },
+      screens: {
+        'xsm':'250px',
+        'sm': '450px',
+        'mid':'640px',
+        'md': '768px',
+        'lg': '1024px',
+        'xl': '1280px',
+      },
     },
   },
   darkMode: "class",

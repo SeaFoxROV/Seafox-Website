@@ -9,7 +9,7 @@ import Link from 'next/link'
 export default function Footer() {
 
   return (
-    <div className='pb-10 font-roboto'>
+    <section className='pb-10 font-roboto' id='Footer'>
         <Divider orientation="horizontal" className='mb-7'/>
         <div className='flex flex-row justify-center'>
             <Link
@@ -39,6 +39,6 @@ export default function Footer() {
             Copyright © 2024
         </h1>
 
-    </div>
+    </section>
   )
 }

@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import "./globals.css";
 import {Providers} from "./providers";
 import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
 
 export const metadata: Metadata = {
   title: "Seafox Inventive",
@@ -27,7 +26,6 @@ export default function RootLayout({
           <Providers>
             <Navbar/>
               {children}
-            <Footer/>
           </Providers>
       </body>
     </html>

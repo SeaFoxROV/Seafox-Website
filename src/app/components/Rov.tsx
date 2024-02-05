@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 export default function Rov() {
   return (
-    <div className='h-screen flex flex-row justify-between relative' id='About'>
+    <section className='h-screen flex flex-row justify-between relative' id='About'>
 
       <div className='ml-10 z-30 flex flex-col justify-center h-full w-1/3 p-5'>
           <div className="flex flex-row">
@@ -51,6 +51,6 @@ export default function Rov() {
         {/* <div className='top-0 w-full h-full z-10 inset-0 bg-gradient-to-r from-[rgba(0,0,0,0.19)] via-[rgba(0,0,0,0)] to-transparent'></div> */}
       </div>
 
-    </div>
+    </section>
   )
 }
