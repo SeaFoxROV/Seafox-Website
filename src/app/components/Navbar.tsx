@@ -7,10 +7,22 @@ export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
 
   const menuItems = [
-    "Home",
-    "About Us",
-    "Team",
-    "Contact"
+    {
+      Name: "Home",
+      href: "#Home"
+    },
+    {
+      Name: "About Us",
+      href: "#About"
+    },
+    {
+      Name: "Team",
+      href: "#Team"
+    },
+    {
+      Name: "Contact",
+      href: "#Contact"
+    },
  ];
   return (
     <NavbarUI onMenuOpenChange={setIsMenuOpen} className='fixed'>
@@ -31,9 +43,9 @@ export default function Navbar() {
 
       <NavbarContent className="hidden sm:flex gap-4" justify="end">
          {menuItems.map((item, index) => (
-          <NavbarItem key={`${item}-${index}`}>
-            <Link color="foreground" href="#" >
-              {item}
+          <NavbarItem key={`${item.Name}-${index}`}>
+            <Link color="foreground" href={item.href} >
+              {item.Name}
             </Link>
           </NavbarItem>
         ))}
@@ -52,7 +64,7 @@ export default function Navbar() {
               size="lg"
               color="foreground"
             >
-              {item}
+              {item.Name}
             </Link>
           </NavbarMenuItem>
         ))}

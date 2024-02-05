@@ -5,7 +5,7 @@ import Image from 'next/image'
 
 export default function Landing() {
   return (
-    <div className='flex flex-row relative h-screen'>
+    <div className='flex flex-row relative h-screen' id='Home'>
       <div className='ml-20 sm:w-full md:w-1/3 lg:w-1/3 z-20'>
         <div className='flex flex-col justify-center h-full'>
           <h2 className='font-bebas text-7xl ml-5'>
@@ -25,14 +25,13 @@ export default function Landing() {
       <div className='overflow-hidden h-screen flex items-center sm:w-0 md:w-full lg:w-full'>
         <div className='relative w-full h-full hidden lg:block md:block'>
           <Image
-            alt="NextUI hero Image"
+            alt="Landing fish"
             src="/images/Pez.png"
             layout="fill"
             className='object-cover object-center'
           />
         </div>
       </div>
-      
     </div>
   )
 }

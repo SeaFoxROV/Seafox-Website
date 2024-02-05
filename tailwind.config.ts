@@ -14,6 +14,7 @@ const config: Config = {
     extend: {
       fontFamily: {
         bebas: ['Bebas Neue', 'sans-serif'],
+        roboto: ['Roboto', 'sans-serif'],
       },
       colors: {
         primary: "#65A2C9"
