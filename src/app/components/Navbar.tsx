@@ -13,7 +13,7 @@ export default function Navbar() {
     "Contact"
  ];
   return (
-    <NavbarUI onMenuOpenChange={setIsMenuOpen}>
+    <NavbarUI onMenuOpenChange={setIsMenuOpen} className='fixed'>
       <NavbarContent justify="start">
         <NavbarMenuToggle
           aria-label={isMenuOpen ? "Close menu" : "Open menu"}

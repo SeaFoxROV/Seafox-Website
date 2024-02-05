@@ -8,9 +8,9 @@ export default function Home() {
     <div>
     <main className="">
       <Navbar/>
-     <Landing/>
-     <Team/>
-     <Rov/>
+      <Landing/>
+      <Rov/>
+      <Team/>
     </main>
     
     </div>
