@@ -4,12 +4,12 @@
 
 
 html, body {
-  min-width: 100vh;
+  min-width: 100wh;
+  max-width: 100wh;
   width: 100%;
   min-height: 100%;
   
 }
-
 
 body {
     margin: 0;
@@ -25,3 +25,6 @@ body {
 section {
     scroll-snap-align: center;
 }
+
+
+

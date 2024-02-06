@@ -6,7 +6,7 @@ import Image from 'next/image'
 export default function Landing() {
   return (
     <section className='flex flex-row relative h-screen justify-between w-full' id='Home'>
-      <div className='ml-20 sm:w-full mid:w-1/3 z-20'>
+      <div className='sm:pl-5 xsm:w-full mid:pl-20 sm:1/3 z-20 flex-1'>
         <div className='flex flex-col justify-center h-full'>
           <h2 className='font-bebas text-7xl ml-5'>
             THE
@@ -19,8 +19,7 @@ export default function Landing() {
       </div>
 
 
-
-      <div className='overflow-hidden h-screen flex items-center xsm:w-0 sm:w-full mid:w-full'>
+      <div className='overflow-hidden h-screen flex items-center xsm:w-0 sm:w-2/3'>
         <div className='relative w-full h-full hidden sm:block'>
           <Image
             alt="Landing fish"

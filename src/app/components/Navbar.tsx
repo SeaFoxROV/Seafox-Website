@@ -60,7 +60,7 @@ export default function Navbar() {
           <NavbarMenuItem key={`${item}-${index}`}>
             <Link
               className="w-full"
-              href="#"
+              href={item.href}
               size="lg"
               color="foreground"
             >
