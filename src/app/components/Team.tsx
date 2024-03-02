@@ -87,8 +87,8 @@ function Carousell() {
       >
       <SwiperSlide>
           <Image
-            alt="Person 1"
-            src="/images/person.png"
+            alt="Aide Sandoval"
+            src="/images/integrantes/Aide Sandoval.png"
             width={300}
             height={300}
             className=''
@@ -96,68 +96,188 @@ function Carousell() {
         </SwiperSlide>
         <SwiperSlide>
           <Image
-            alt="Person 2"
-            src="/images/person2.png"
+            alt="Anahí Hull"
+            src="/images/integrantes/Anahí Hull.png"
             width={300}
             height={300}
           />
         </SwiperSlide>
         <SwiperSlide>
           <Image
-            alt="Person 3"
-            src="/images/person3.png"
+            alt="Brandon Herrera"
+            src="/images/integrantes/Brandon Herrera.png"
             width={300}
             height={300}
           />
         </SwiperSlide>
          <SwiperSlide>
           <Image
-            alt="Person 1"
-            src="/images/person.png"
+            alt="Carolina Flores"
+            src="/images/integrantes/Carolina Flores.png"
             width={300}
             height={300}
           />
         </SwiperSlide>
         <SwiperSlide>
           <Image
-            alt="Person 2"
-            src="/images/person2.png"
+            alt="Cesar Ahumada"
+            src="/images/integrantes/Cesar Ahumada.png"
             width={300}
             height={300}
           />
         </SwiperSlide>
         <SwiperSlide>
           <Image
-            alt="Person 3"
-            src="/images/person3.png"
+            alt="Chantal Mendoza"
+            src="/images/integrantes/Chantal Mendoza.png"
             width={300}
             height={300}
           />
         </SwiperSlide>
         <SwiperSlide>
           <Image
-            alt="Person 1"
-            src="/images/person.png"
+            alt="Claudio Lopez"
+            src="/images/integrantes/Claudio Lopez.png"
             width={300}
             height={300}
           />
         </SwiperSlide>
         <SwiperSlide>
           <Image
-            alt="Person 2"
-            src="/images/person2.png"
+            alt="Daira Razo"
+            src="/images/integrantes/Daira Razo.png"
             width={300}
             height={300}
           />
         </SwiperSlide>
         <SwiperSlide>
           <Image
-            alt="Person 3"
-            src="/images/person3.png"
+            alt="Davi Bustamante"
+            src="/images/integrantes/David Bustamante.png"
             width={300}
             height={300}
           />
         </SwiperSlide>
+        <SwiperSlide>
+          <Image
+            alt="Joshua Ibarra"
+            src="/images/integrantes/Joshua Ibarra.png"
+            width={300}
+            height={300}
+          />
+        </SwiperSlide>        
+        <SwiperSlide>
+          <Image
+            alt="Kevin Payan"
+            src="/images/integrantes/Kevin Payan.png"
+            width={300}
+            height={300}
+          />
+        </SwiperSlide>  
+        <SwiperSlide>
+          <Image
+            alt="Lorenzo Villalobos"
+            src="/images/integrantes/Lorenzo Villalobos.png"
+            width={300}
+            height={300}
+          />
+        </SwiperSlide> 
+        <SwiperSlide>
+          <Image
+            alt="Luis Solis"
+            src="/images/integrantes/Luis Solis.png"
+            width={300}
+            height={300}
+          />
+        </SwiperSlide> 
+        <SwiperSlide>
+          <Image
+            alt="Mariana Vega"
+            src="/images/integrantes/Mariana Vega.png"
+            width={300}
+            height={300}
+          />
+        </SwiperSlide>  
+        <SwiperSlide>
+          <Image
+            alt="Mario Alcaraz"
+            src="/images/integrantes/Mario Alcaraz.png"
+            width={300}
+            height={300}
+          />
+        </SwiperSlide>   
+        <SwiperSlide>
+          <Image
+            alt="Oscar Mendivil"
+            src="/images/integrantes/Oscar Mendivil.png"
+            width={300}
+            height={300}
+          />
+        </SwiperSlide>  
+        <SwiperSlide>
+          <Image
+            alt="Pedro Monge"
+            src="/images/integrantes/Pedro Monge.png"
+            width={300}
+            height={300}
+          />
+        </SwiperSlide>   
+        <SwiperSlide>
+          <Image
+            alt="Raúl Gallareta"
+            src="/images/integrantes/Raúl Gallareta.png"
+            width={300}
+            height={300}
+          />
+        </SwiperSlide>  
+        <SwiperSlide>
+          <Image
+            alt="Samuel Tirado"
+            src="/images/integrantes/Samuel Tirado.png"
+            width={300}
+            height={300}
+          />
+        </SwiperSlide>  
+        <SwiperSlide>
+          <Image
+            alt="San Felipe"
+            src="/images/integrantes/San Felipe.png"
+            width={300}
+            height={300}
+          />
+        </SwiperSlide>  
+        <SwiperSlide>
+          <Image
+            alt="Sebastián Gonzáles"
+            src="/images/integrantes/Sebastián Gonzáles.png"
+            width={300}
+            height={300}
+          />
+        </SwiperSlide>  
+        <SwiperSlide>
+          <Image
+            alt="Sergio Lachica"
+            src="/images/integrantes/Sergio Lachica.png"
+            width={300}
+            height={300}
+          />
+        </SwiperSlide>  
+        <SwiperSlide>
+          <Image
+            alt="Valeria Ibarra"
+            src="/images/integrantes/Valeria Ibarra.png"
+            width={300}
+            height={300}
+          />
+        </SwiperSlide>  
+        <SwiperSlide>
+          <Image
+            alt="??????"
+            src="/images/integrantes/cb011d4b-e52c-4f6a-9f17-5e4a70c46278.png"
+            width={300}
+            height={300}
+          />
+        </SwiperSlide>  
 
         <div className="slider-controler">
           <div className="swiper-button-prev slider-arrow">
