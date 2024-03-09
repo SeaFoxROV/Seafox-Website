@@ -273,7 +273,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="??????"
-            src="/images/integrantes/cb011d4b-e52c-4f6a-9f17-5e4a70c46278.png"
+            src="/images/cb011d4b-e52c-4f6a-9f17-5e4a70c46278.png"
             width={300}
             height={300}
           />
