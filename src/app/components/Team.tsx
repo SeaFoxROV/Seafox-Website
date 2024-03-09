@@ -88,7 +88,7 @@ function Carousell() {
       <SwiperSlide>
           <Image
             alt="Aide Sandoval"
-            src="/images/integrantes/Aide Sandoval.png"
+            src="/images/integrantes/Aide_Sandoval.png"
             width={300}
             height={300}
             className=''
