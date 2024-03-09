@@ -97,7 +97,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Anahí Hull"
-            src="/integrantes/anahí_Hull.png"
+            src="/images/anahí_Hull.png"
             width={300}
             height={300}
           />
@@ -105,7 +105,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Brandon Herrera"
-            src="/integrantes/Brandon Herrera.png"
+            src="/images/Brandon Herrera.png"
             width={300}
             height={300}
           />
@@ -113,7 +113,7 @@ function Carousell() {
          <SwiperSlide>
           <Image
             alt="Carolina Flores"
-            src="/integrantes/Carolina Flores.png"
+            src="/images/Carolina Flores.png"
             width={300}
             height={300}
           />
@@ -121,7 +121,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Cesar Ahumada"
-            src="/integrantes/Cesar Ahumada.png"
+            src="/images/Cesar Ahumada.png"
             width={300}
             height={300}
           />
@@ -129,7 +129,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Chantal Mendoza"
-            src="/integrantes/Chantal Mendoza.png"
+            src="/images/Chantal Mendoza.png"
             width={300}
             height={300}
           />
@@ -137,7 +137,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Claudio Lopez"
-            src="/integrantes/Claudio Lopez.png"
+            src="/images/Claudio Lopez.png"
             width={300}
             height={300}
           />
@@ -145,7 +145,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Daira Razo"
-            src="/integrantes/Daira Razo.png"
+            src="/images/Daira Razo.png"
             width={300}
             height={300}
           />
@@ -153,7 +153,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Davi Bustamante"
-            src="/integrantes/David Bustamante.png"
+            src="/images/David Bustamante.png"
             width={300}
             height={300}
           />
@@ -161,7 +161,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Joshua Ibarra"
-            src="/integrantes/Joshua Ibarra.png"
+            src="/images/Joshua Ibarra.png"
             width={300}
             height={300}
           />
@@ -169,7 +169,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Kevin Payan"
-            src="/integrantes/Kevin Payan.png"
+            src="/images/Kevin Payan.png"
             width={300}
             height={300}
           />
@@ -177,7 +177,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Lorenzo Villalobos"
-            src="/integrantes/Lorenzo Villalobos.png"
+            src="/images/Lorenzo Villalobos.png"
             width={300}
             height={300}
           />
@@ -185,7 +185,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Luis Solis"
-            src="/integrantes/Luis Solis.png"
+            src="/images/Luis Solis.png"
             width={300}
             height={300}
           />
@@ -193,7 +193,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Mariana Vega"
-            src="/integrantes/Mariana Vega.png"
+            src="/images/Mariana Vega.png"
             width={300}
             height={300}
           />
@@ -201,7 +201,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Mario Alcaraz"
-            src="/integrantes/Mario Alcaraz.png"
+            src="/images/Mario Alcaraz.png"
             width={300}
             height={300}
           />
@@ -209,7 +209,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Oscar Mendivil"
-            src="/integrantes/Oscar Mendivil.png"
+            src="/images/Oscar Mendivil.png"
             width={300}
             height={300}
           />
@@ -217,7 +217,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Pedro Monge"
-            src="/integrantes/Pedro Monge.png"
+            src="/images/Pedro Monge.png"
             width={300}
             height={300}
           />
@@ -225,7 +225,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Raúl Gallareta"
-            src="/integrantes/Raúl Gallareta.png"
+            src="/images/Raúl Gallareta.png"
             width={300}
             height={300}
           />
@@ -233,7 +233,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Samuel Tirado"
-            src="/integrantes/Samuel Tirado.png"
+            src="/images/Samuel Tirado.png"
             width={300}
             height={300}
           />
@@ -241,7 +241,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="San Felipe"
-            src="/integrantes/San Felipe.png"
+            src="/images/San Felipe.png"
             width={300}
             height={300}
           />
@@ -249,7 +249,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Sebastián Gonzáles"
-            src="/integrantes/Sebastián Gonzáles.png"
+            src="/images/Sebastián Gonzáles.png"
             width={300}
             height={300}
           />
@@ -257,7 +257,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Sergio Lachica"
-            src="/integrantes/Sergio Lachica.png"
+            src="/images/Sergio Lachica.png"
             width={300}
             height={300}
           />
@@ -265,7 +265,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Valeria Ibarra"
-            src="/integrantes/Valeria Ibarra.png"
+            src="/images/Valeria Ibarra.png"
             width={300}
             height={300}
           />
