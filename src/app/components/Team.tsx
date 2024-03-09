@@ -88,7 +88,7 @@ function Carousell() {
       <SwiperSlide>
           <Image
             alt="Aide Sandoval"
-            src="/images/aide_sandoval.png"
+            src="/integrantes/aide_sandoval.png"
             width={300}
             height={300}
             className=''
@@ -97,7 +97,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Anahí Hull"
-            src="/images/integrantes/Anahí Hull.png"
+            src="/integrantes/Anahí Hull.png"
             width={300}
             height={300}
           />
@@ -105,7 +105,7 @@ function Carousell() {
         <SwiperSlide>
           <Image
             alt="Brandon Herrera"
-            src="/images/integrantes/Brandon Herrera.png"
+            src="/integrantes/Brandon Herrera.png"
             width={300}
             height={300}
           />
